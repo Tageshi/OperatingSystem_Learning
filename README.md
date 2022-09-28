@@ -1,0 +1,2 @@
+# OperatingSystem_Learning
+本篇是基于哈工大李治军老师的操作系统原理的mooc笔记记录，笔者希望自己能对OS有更深更透彻的学习。
